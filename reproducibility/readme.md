@@ -183,7 +183,7 @@
    My Msg 3 -> 12 October 2024, 11:30  
    Response 4 ->  12 October 2024, 12:00  
 
-## **Github Issue 2 (Cadets)** <https://github.com/FDUDSDE/MAGIC/issues/13>
+## **Github Issue 2 (Cadets)** <https://github.com/FDUDSDE/MAGIC/issues/19>
 
 1) Timeline:
 
