@@ -163,7 +163,7 @@
    3) Results do not match. 
       1) Created a Github issue: <https://github.com/FDUDSDE/MAGIC/issues/19> (No response yet)
 
-## **Key Issues:**
+## **Key Issues ([Detailed](https://docs.google.com/document/d/1ynkKNEqqJBW2bS1WlEwedDZWCBDJRdv7hTKiy7T2M18/edit?usp=sharing)):**
 
 1) No requirement.txt
 2) Dgl library issues on Mac and Windows
