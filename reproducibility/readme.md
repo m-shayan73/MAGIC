@@ -10,8 +10,6 @@
    
    1) Only certain versions of the dgl library can be installed via the pip command. (available versions: 2.1.0 and 2.2.0 on Mac and 0.1.2, 0.1.3, and 2.2.1 on Windows).
    
-   2) Each version of dgl is compatible with certain versions of pytorch. However, even when using compatible versions I was getting the following error when I tried running eval.py.  
-   
       ![](./assets/dgl_load_error.png)
 
    3) Newer versions of the dgl library are available for build from source. However, I was not able to build them successfully and got the following error each time I tried.
